@@ -1,5 +1,5 @@
 [wrap-git]
 directory = babl
-url = https://gitlab.gnome.org/GNOME/babl.git
-push-url = git@gitlab.gnome.org:GNOME/babl.git
-revision = master
+url = https://github.com/braindevices/babl.git
+push-url = git@github.com:braindevices/babl.git
+revision = subproject-compatible

@@ -1,5 +1,5 @@
 [wrap-git]
 directory = gegl
-url = https://gitlab.gnome.org/GNOME/gegl.git
-push-url = git@gitlab.gnome.org:GNOME/gegl.git
-revision = master
+url = https://github.com/braindevices/gegl.git
+push-url = git@github.com:braindevices/gegl.git
+revision = subproject-compatible
