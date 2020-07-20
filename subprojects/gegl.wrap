@@ -1,0 +1,5 @@
+[wrap-git]
+directory = gegl
+url = https://gitlab.gnome.org/GNOME/gegl.git
+push-url = git@gitlab.gnome.org:GNOME/gegl.git
+revision = master
